@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io:/github/license/ditus-software/date-util)](LICENSE)
 [![build/test](https://github.com/ditus-software/date-util/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ditus-software/date-util/actions/workflows/node.js.yml)
+[![Coverage Status](https://coveralls.io/repos/github/ditus-software/date-util/badge.svg?branch=master)](https://coveralls.io/github/ditus-software/date-util?branch=master)
 [![contributor covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE-OF-CONDUCT.md)
 
 A simple JavaScript library for formatting a date in human readable language
