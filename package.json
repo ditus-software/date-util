@@ -1,6 +1,6 @@
 {
   "name": "@ditus/date-util",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A JavaScript library for working with dates/times and converting them to human-readable text.",
   "private": false,
   "main": "dist/index.js",
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/ditus-software/date-util#readme",
   "peerDependencies": {
-    "moment": "^2.29.4"
+    "moment": "^2.29.0"
   },
   "devDependencies": {
     "@babel/core": "^7.21.3",
