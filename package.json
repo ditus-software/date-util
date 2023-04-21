@@ -1,6 +1,6 @@
 {
   "name": "@ditus/date-util",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A JavaScript library for working with dates/times and converting them to human-readable text.",
   "private": false,
   "main": "dist/index.js",
